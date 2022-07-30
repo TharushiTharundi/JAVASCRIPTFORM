@@ -1,0 +1,75 @@
+
+.container{
+  margin-top: 20px;
+}
+
+.personal-info{
+
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+/* left div  */
+#details-info{
+    text-align: left;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#div-left{
+    background-color: wheat;
+    padding: 50px 50px 50px 50px;
+    border-radius: 20%;
+    
+}
+/* left div */
+
+/* btn */
+#btn{
+    background-color: green;
+    color: aliceblue;
+    border-style: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding: 10px 30px 10px 30px ;
+    float: right;
+}
+/* btn */
+
+/* btn center div */
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+   }
+   /* btn center div */
+
+/* right side details */
+   #detailsname ,#detailsage , #resultbmi{
+    font-size: 30px;
+    margin-left: 20px;
+    text-transform: uppercase;
+    color: brown;
+    padding-top: 20px;
+
+   }
+/* right side details */
+
+
+.resultinfo-right{
+
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 40px;
+}
+
+
